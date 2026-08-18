@@ -164,6 +164,7 @@ invpcid rdrand hypervisor lahf_lm abm 3dnowprefetch
   <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=00ff00" alt="Arch" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00ff00" alt="Docker" />
   <img src="https://img.shields.io/badge/Proxmox-0D1117?style=for-the-badge&logo=proxmox&logoColor=00ff00" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00ff00" alt="K8s" />
   <img src="https://img.shields.io/badge/VMware_ESXi-0D1117?style=for-the-badge&logo=vmware&logoColor=00ff00" alt="ESXi" />
   <img src="https://img.shields.io/badge/QEMU-0D1117?style=for-the-badge&logo=qemu&logoColor=00ff00" alt="QEMU" />
   <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00ff00" alt="Windows" />
