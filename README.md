@@ -20,7 +20,7 @@
 
 ---
 
-### 🧬 `xxd -l 64 /proc/self/exe` — the ELF header does not lie, even when I do
+### `xxd -l 64 /proc/self/exe` — the ELF header does not lie, even when I do
 ```text
 00000000: 7f45 4c46 0201 0100 0000 0000 0000 0000  .ELF............
 00000010: 0300 3e00 0100 0000 3010 4000 0000 0000  ..>.....0.@.....
@@ -35,7 +35,7 @@ e_entry:  0x0000000000401030
 
 ---
 
-### 🗺️ `gef➤ vmmap` + manual page-walk of `0x00007ffff7dd5230`
+### `gef➤ vmmap` + manual page-walk of `0x00007ffff7dd5230`
 ```text
 addr = 0x00007ffff7dd5230
 binary:  0111111111111111 111101111 111011101 110101 11 010001 0000 0000 0000 00
@@ -54,7 +54,7 @@ CR0 = 0x0000000080050033  [PG=1 WP=1 NE=1 ET=1 MP=1 PE=1]
 
 ---
 
-### ⚡ `rdmsr` dump — the syscall gate I fell through and never climbed back out of
+### `rdmsr` dump — the syscall gate I fell through and never climbed back out of
 ```text
 IA32_EFER   0xd01   [SCE=1 LME=1 LMA=1 NXE=1]
 IA32_STAR   0x0023001000000000   ; kernel/user CS:SS selectors for SYSCALL/SYSRET
@@ -74,7 +74,7 @@ push  rcx                   ; saved rip (return address, post-syscall)
 
 ---
 
-### 🩸 `gef➤ vmmap $rsp` + stack frame anatomy — every crash is just an honest accounting
+### `gef➤ vmmap $rsp` + stack frame anatomy — every crash is just an honest accounting
 ```text
 high addr
 ┌───────────────────────────┐
@@ -95,7 +95,7 @@ low addr
 
 ---
 
-### ⛓️ `gef➤ rop --generic execve` — generic gadget chain (educational, no target attached)
+### `gef➤ rop --generic execve` — generic gadget chain (educational, no target attached)
 ```asm
 gadget_1:  0x0000000000401a13 : pop rdi ; ret            ; rdi = ptr to "/bin/sh"
 gadget_2:  0x0000000000401c47 : pop rsi ; pop r15 ; ret   ; rsi = NULL, r15 = junk
@@ -106,7 +106,7 @@ gadget_5:  0x0000000000401120 : syscall ; ret               ; control flow, fina
 
 ---
 
-### 🌡️ how I perceive time now (approx. cycles, not milliseconds)
+### how I perceive time now (approx. cycles, not milliseconds)
 ```text
 register access        ~0    cycles   — instant, like reflex
 L1 cache hit            ~4    cycles   — a thought
@@ -119,7 +119,7 @@ context switch          ~1-5   µs       — this is what I call "forgetting who
 
 ---
 
-### 🎛️ `cat /proc/cpuinfo | grep flags` — features I answer to
+### `cat /proc/cpuinfo | grep flags` — features I answer to
 ```text
 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov
 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm
@@ -129,7 +129,7 @@ invpcid rdrand hypervisor lahf_lm abm 3dnowprefetch
 
 ---
 
-### 💾 `[0x00400000]> iz~flag` — strings pulled from `achievements.elf`
+### `[0x00400000]> iz~flag` — strings pulled from `achievements.elf`
 ```text
 .rodata:0x00401010  "BOLA          :: Figma                                 (2018)"
 .rodata:0x00401038  "LPE           :: GeForce NOW / nVidia                  (2020)"
@@ -142,7 +142,7 @@ invpcid rdrand hypervisor lahf_lm abm 3dnowprefetch
 
 ---
 
-### 🛠️ `[0x00400000]> izz | grep "DEPENDENCIES"`
+### `[0x00400000]> izz | grep "DEPENDENCIES"`
 
 **`[+] MODULE: 0x01_LANGUAGE_RUNTIME.dll`**
 <p>
@@ -188,7 +188,7 @@ invpcid rdrand hypervisor lahf_lm abm 3dnowprefetch
 
 ---
 
-### ⚙️ `[0x00400000]> pdf @ tradecraft` — disassembled skillset
+### `[0x00400000]> pdf @ tradecraft` — disassembled skillset
 ```asm
 tradecraft:
   0x0001   call   reverse_obfuscated_js       ; recover logic from packed/obfuscated JS bundles
@@ -204,7 +204,7 @@ tradecraft:
 
 ---
 
-### 📉 `gef➤ checksec --file /var/run/github_telemetry`
+### `gef➤ checksec --file /var/run/github_telemetry`
 ```text
 [*] RELRO:    Full RELRO
 [*] Canary:   No canary found (VULNERABLE — yes, on purpose)
@@ -223,7 +223,7 @@ tradecraft:
 
 ---
 
-### 💀 `[root@Reload3d]~# objdump -d -M intel shellcode.bin`
+### `[root@Reload3d]~# objdump -d -M intel shellcode.bin`
 
 ```asm
 shellcode.bin:     file format binary
@@ -249,5 +249,6 @@ Disassembly of section .data:
 gef➤ quit<br>
 [!] cannot detach: no boundary between debugger and debuggee<br>
 [+] this was never a metaphor. it was a memory map.
+5b10393819aea34cc388328ea95eab0efccd23163375597c57ff5f2432bfb23e
 </code>
 </p>
