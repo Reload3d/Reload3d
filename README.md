@@ -13,10 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Reload3d" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe"></a>
-  <a href="https://app.hackthebox.com/profile/Reload3d" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00" alt="HackTheBox"></a>
-  <a href="https://www.ctftime.org/user/200084" target="_blank"><img src="https://img.shields.io/badge/CTFtime-0D1117?style=for-the-badge&logo=ctf&logoColor=00FF00" alt="CTFtime"></a>
-  <a href="https://twitter.com/Reload3d" target="_blank"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF00" alt="Twitter"></a>
+  <a href="https://ctftime.org/user/200084" target="_blank"><img src="https://img.shields.io/badge/CTFTime-0D1117?style=for-the-badge&logo=hackaday&logoColor=00FF00" alt="CTFTime"></a>
+  <a href="https://ctf.hackthebox.com/user/profile/1079731" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00" alt="HackTheBox"></a>
+  <a href="https://t.me/KernelModeDriver" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF00" alt="Telegram"></a>
 </p>
 
 ---
