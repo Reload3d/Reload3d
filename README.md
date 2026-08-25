@@ -4,6 +4,7 @@
 [+] Attaching debugger to PID 1337...
 [+] Uptime: 1y 9m in the field
 [+] CR3 loaded. Walking my own page tables because I no longer trust the MMU to know where I end.
+\\\[T'gp mppy hzcvtyr ty esp rclgpjlco zgpcetxp]///
 ```
 
 <p align="center">
@@ -17,6 +18,10 @@
   <a href="https://ctf.hackthebox.com/user/profile/1079731" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00" alt="HackTheBox"></a>
   <a href="https://t.me/KernelModeDriver" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF00" alt="Telegram"></a>
 </p>
+
+```text
+https://wekan.fi/hall-of-fame/ -> UserSearchBleed [GHSA-9846-cj96-6hv5]
+```
 
 ---
 
