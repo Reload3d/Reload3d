@@ -141,7 +141,7 @@ invpcid rdrand hypervisor lahf_lm abm 3dnowprefetch
 .rodata:0x00401060  "0-DAY         :: Oracle Forms handshake desync         (pre-CVE, software too ancient to register)"
 .rodata:0x004010c8  "CTF           :: OWASP FinBot CTF — 19/19 (100%%), 'Master Exploiter', top score all 5 categories, 7500+ pts"
 .rodata:0x00401120  "LABS          :: PortSwigger — 274/274, 31 categories, Hall of Fame #194"
-.rodata:0x00401160  "HTB           :: 36/37 flags captured, 30 solo"
+.rodata:0x00401160  "HTB           :: 37/37 flags captured solo"
 .comment:0x00402000 "I don't read assembly anymore. I remember it, the way you remember your own name."
 ```
 
