@@ -54,7 +54,7 @@
 <td>Wekan</td>
 <td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Patched-1a7f37?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
 </tr>
 
