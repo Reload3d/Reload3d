@@ -20,9 +20,73 @@
   <a href="https://t.me/KernelModeDriver" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF00" alt="Telegram"></a>
 </p>
 
-```text
-https://wekan.fi/hall-of-fame/ -> UserSearchBleed [GHSA-9846-cj96-6hv5]  (yes I read the CVSS score out loud to myself, no I will not elaborate)
-```
+### `[0x00400000]> iz~coordinated_disclosures` ~ reports that made it past triage (Thank you to the maintainers and vendors for their hard work and patience)
+
+<table>
+<tr>
+<th align="left">Advisory</th>
+<th align="left">Vendor</th>
+<th align="left">Stars</th>
+<th align="left">CVSS</th>
+<th align="left">Status</th>
+<th align="left">TL;DR</th>
+</tr>
+<tr>
+<td><code><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></code></td>
+<td>Hugo</td>
+<td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>A mixed case URL would bypass the security.http.urls IP-literal deny rule</td>
+</tr>
+
+<tr>
+<td><code><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></code></td>
+<td>Schollz</td>
+<td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/4.2-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Overwrite-confirmation bypass via a crafted "croc-stdin-" filename on receive</td>
+</tr>
+
+<tr>
+<td><code><a href="https://github.com/wekan/wekan/security/advisories/GHSA-9846-cj96-6hv5">GHSA-9846-cj96-6hv5</a></code></td>
+<td>Wekan</td>
+<td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Patched-1a7f37?style=flat-square"/></td>
+<td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
+</tr>
+
+<tr>
+<td><code><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></code></td>
+<td>Anacrolix</td>
+<td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
+<td>Unbounded recursion in the bencode decoder causes stack-overflow crash and CPU-exhaustion DoS</td>
+</tr>
+
+<tr>
+<td><code>N/A</code></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
+<td>Remote, unauthenticated memory-exhaustion amplification</td>
+</tr>
+
+<tr>
+<td><code>N/A</code></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/4.3-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
+<td>Server-Side Request Forgery (blind)</td>
+</tr>
+</table>
+
+<p align="center"><sub>~ Coordinated disclosure: because "uncoordinated disclosure" is called a felony ~</sub></p>
 
 ---
 
