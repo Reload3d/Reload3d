@@ -73,7 +73,34 @@
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
+<td>ReDoS / algorithmic-complexity CPU exhaustion</td>
+</tr>
+
+<tr>
+<td><code>N/A</code></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
+<td>DoS: unrecoverable parser stack-overflow crash on deeply nested array-literal expressions</td>
+</tr>
+
+<tr>
+<td><code>N/A</code></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
 <td>Remote, unauthenticated memory-exhaustion amplification</td>
+</tr>
+
+<tr>
+<td><code>N/A</code></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
+<td>CGI Path-Split Boundary Bypass</td>
 </tr>
 
 <tr>
