@@ -68,6 +68,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a></code></td>
+<td>Gopacket</td>
+<td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>SCTP chunk sub-decoder out-of-bounds panics on crafted segments</td>
+</tr>
+
+<tr>
 <td><code>N/A</code></td>
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
