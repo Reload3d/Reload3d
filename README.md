@@ -68,6 +68,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></code></td>
+<td>tinyproxy</td>
+<td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
+<td>ACL hostname allow-list bypass via suffix over-match</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a></code></td>
 <td>Gopacket</td>
 <td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=555555"/></td>
@@ -116,7 +125,7 @@
 <td><code>N/A</code></td>
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/4.3-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/4.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
 <td>Server-Side Request Forgery (blind)</td>
 </tr>
