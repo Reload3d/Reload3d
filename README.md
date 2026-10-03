@@ -86,6 +86,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></code></td>
+<td>3x-ui</td>
+<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/2.7-Low-898989?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Admin-authenticated SSRF</td>
+</tr>
+
+<tr>
 <td><code>N/A</code></td>
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
