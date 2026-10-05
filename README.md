@@ -95,6 +95,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></code></td>
+<td>shaarli</td>
+<td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/3.7-Low-898989?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>CSRF-to-SSRF</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></code></td>
 <td>3x-ui</td>
 <td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
