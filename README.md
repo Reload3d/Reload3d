@@ -59,6 +59,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-xxjp-cjxr-2x6m">GHSA-xxjp-cjxr-2x6m</a></code></td>
+<td>PHP</td>
+<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>CGI Path-Split Boundary Bypass</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></code></td>
 <td>Anacrolix</td>
 <td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&color=555555"/></td>
@@ -119,15 +128,6 @@
 <td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
 <td>Remote, unauthenticated memory-exhaustion amplification</td>
-</tr>
-
-<tr>
-<td><code>N/A</code></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
-<td>CGI Path-Split Boundary Bypass</td>
 </tr>
 
 <tr>
