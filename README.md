@@ -35,8 +35,8 @@
 <td><code><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></code></td>
 <td>Hugo</td>
 <td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/8.6-High-c2410c?style=flat-square"/></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></td>
 <td>A mixed case URL would bypass the security.http.urls IP-literal deny rule</td>
 </tr>
 
