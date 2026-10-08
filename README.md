@@ -95,6 +95,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></code></td>
+<td>portainer</td>
+<td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/5.3-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Server-Side Request Forgery across multiple outbound-request features</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></code></td>
 <td>shaarli</td>
 <td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&color=555555"/></td>
