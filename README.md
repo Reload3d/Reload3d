@@ -25,7 +25,7 @@
 <table>
 <tr>
 <th align="left">Advisory</th>
-<th align="left">Vendor</th>
+<th align="left">Repo</th>
 <th align="left">Stars</th>
 <th align="left">CVSS</th>
 <th align="left">Status</th>
@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td><code><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></code></td>
-<td>Hugo</td>
+<td>gohugoio/hugo</td>
 <td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/8.6-High-c2410c?style=flat-square"/></td>
 <td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></td>
@@ -42,7 +42,7 @@
 
 <tr>
 <td><code><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></code></td>
-<td>Schollz</td>
+<td>schollz/croc</td>
 <td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/4.2-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
@@ -51,7 +51,7 @@
 
 <tr>
 <td><code><a href="https://github.com/wekan/wekan/security/advisories/GHSA-9846-cj96-6hv5">GHSA-9846-cj96-6hv5</a></code></td>
-<td>Wekan</td>
+<td>wekan/wekan</td>
 <td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
@@ -60,7 +60,7 @@
 
 <tr>
 <td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-xxjp-cjxr-2x6m">GHSA-xxjp-cjxr-2x6m</a></code></td>
-<td>PHP</td>
+<td>php/frankenphp</td>
 <td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
@@ -69,7 +69,7 @@
 
 <tr>
 <td><code><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></code></td>
-<td>Anacrolix</td>
+<td>anacrolix/torrent</td>
 <td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
@@ -78,7 +78,7 @@
 
 <tr>
 <td><code><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></code></td>
-<td>tinyproxy</td>
+<td>tinyproxy/tinyproxy</td>
 <td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
@@ -87,7 +87,7 @@
 
 <tr>
 <td><code><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a></code></td>
-<td>Gopacket</td>
+<td>gopacket/gopacket</td>
 <td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
@@ -96,7 +96,7 @@
 
 <tr>
 <td><code><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></code></td>
-<td>portainer</td>
+<td>portainer/portainer</td>
 <td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/5.3-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
@@ -105,7 +105,7 @@
 
 <tr>
 <td><code><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></code></td>
-<td>shaarli</td>
+<td>shaarli/Shaarli</td>
 <td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/3.7-Low-898989?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
@@ -114,7 +114,7 @@
 
 <tr>
 <td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></code></td>
-<td>3x-ui</td>
+<td>MHSanaei/3x-ui</td>
 <td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/2.7-Low-898989?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
