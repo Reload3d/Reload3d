@@ -68,6 +68,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-ccgp-ch9h-533f">GHSA-ccgp-ch9h-533f</a></code></td>
+<td>php/frankenphp</td>
+<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Stack Overflow DoS</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></code></td>
 <td>anacrolix/torrent</td>
 <td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&color=555555"/></td>
