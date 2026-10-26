@@ -122,6 +122,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-73xj-vvj7-fp4p">GHSA-73xj-vvj7-fp4p</a></code></td>
+<td>MHSanaei/3x-ui</td>
+<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/5.3-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Login rate limit bypass</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></code></td>
 <td>MHSanaei/3x-ui</td>
 <td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
