@@ -37,7 +37,16 @@
 <td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/8.6-High-c2410c?style=flat-square"/></td>
 <td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></td>
-<td>A mixed case URL would bypass the security.http.urls IP-literal deny rule</td>
+<td>SSRF Protection Bypass</td>
+</tr>
+
+<tr>
+<td><code><a href="https://github.com/router-for-me/CLIProxyAPI/security/advisories/GHSA-j4xx-x47j-7h54">GHSA-j4xx-x47j-7h54</a></code></td>
+<td>router-for-me/CLIProxyAPI</td>
+<td><img src="https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Unauthenticated Request Exhaustion</td>
 </tr>
 
 <tr>
@@ -46,7 +55,7 @@
 <td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/4.2-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Overwrite-confirmation bypass via a crafted "croc-stdin-" filename on receive</td>
+<td>Silent File Overwrite</td>
 </tr>
 
 <tr>
@@ -82,7 +91,7 @@
 <td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
-<td>Unbounded recursion in the bencode decoder causes stack-overflow crash and CPU-exhaustion DoS</td>
+<td>Unbounded Recursion DoS</td>
 </tr>
 
 <tr>
@@ -91,7 +100,7 @@
 <td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
-<td>ACL hostname allow-list bypass via suffix over-match</td>
+<td>Hostname ACL Bypass</td>
 </tr>
 
 <tr>
@@ -100,7 +109,7 @@
 <td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>SCTP chunk sub-decoder out-of-bounds panics on crafted segments</td>
+<td>SCTP Decoder Crash</td>
 </tr>
 
 <tr>
@@ -109,7 +118,7 @@
 <td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/5.3-Moderate-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Server-Side Request Forgery across multiple outbound-request features</td>
+<td>Authenticated SSRF Vulnerabilities</td>
 </tr>
 
 <tr>
