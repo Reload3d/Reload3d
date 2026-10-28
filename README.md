@@ -50,6 +50,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/charmbracelet/bubbletea/security/advisories/GHSA-qc58-pfg9-7pph">GHSA-qc58-pfg9-7pph</a></code></td>
+<td>charmbracelet/bubbletea</td>
+<td><img src="https://img.shields.io/github/stars/charmbracelet/bubbletea?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Terminal Resize DoS</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></code></td>
 <td>schollz/croc</td>
 <td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=555555"/></td>
