@@ -63,7 +63,7 @@
 <td>schollz/croc</td>
 <td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/4.2-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>CVE-2026-119298</td>
 <td>Silent File Overwrite</td>
 </tr>
 
@@ -72,7 +72,7 @@
 <td>wekan/wekan</td>
 <td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>CVE-2026-119300</td>
 <td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
 </tr>
 
@@ -117,7 +117,7 @@
 <td>gopacket/gopacket</td>
 <td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=555555"/></td>
 <td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>CVE-2026-119299</td>
 <td>SCTP Decoder Crash</td>
 </tr>
 
