@@ -156,42 +156,6 @@
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Admin-authenticated SSRF</td>
 </tr>
-
-<tr>
-<td><code>N/A</code></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
-<td>ReDoS / algorithmic-complexity CPU exhaustion</td>
-</tr>
-
-<tr>
-<td><code>N/A</code></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
-<td>DoS: unrecoverable parser stack-overflow crash on deeply nested array-literal expressions</td>
-</tr>
-
-<tr>
-<td><code>N/A</code></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
-<td>Remote, unauthenticated memory-exhaustion amplification</td>
-</tr>
-
-<tr>
-<td><code>N/A</code></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-CLASSIFIED-000000?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/4.5-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_Disclosure-7c3aed?style=flat-square"/></td>
-<td>Server-Side Request Forgery (blind)</td>
-</tr>
 </table>
 
 <p align="center"><sub>~ Coordinated disclosure: because "uncoordinated disclosure" is called a felony ~</sub></p>
