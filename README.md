@@ -50,6 +50,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/scrapinghub/dateparser/security/advisories/GHSA-g8fh-jxm9-6qfx">GHSA-g8fh-jxm9-6qfx</a></code></td>
+<td>scrapinghub/dateparser</td>
+<td><img src="https://img.shields.io/github/stars/scrapinghub/dateparser?style=flat-square&color=555555"/></td>
+<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Regex Complexity DoS</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/charmbracelet/bubbletea/security/advisories/GHSA-qc58-pfg9-7pph">GHSA-qc58-pfg9-7pph</a></code></td>
 <td>charmbracelet/bubbletea</td>
 <td><img src="https://img.shields.io/github/stars/charmbracelet/bubbletea?style=flat-square&color=555555"/></td>
