@@ -10,14 +10,14 @@
 
 <p align="center">
   <a href="https://github.com/Reload3d">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=%3E+gef%E2%9E%A4+x%2F10s+%24rip;%3E+0x401000%3A+%22Reload3d%22;%3E+0x401009%3A+%22Vulnerability+Research+%2F%2F+Exploit+Dev%22;%3E+0x40102b%3A+%22AppSec+%2F%2F+Pentest+%2F%2F+Threat+Modeling%22;%3E+0x401050%3A+%22EIP+Control+Achieved.%22;%3E+0x401080%3A+%22it+compiled%2C+ship+it.%22" alt="Terminal Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=007d00&center=true&vCenter=true&width=900&height=100&lines=%3E+gef%E2%9E%A4+x%2F10s+%24rip;%3E+0x401000%3A+%22Reload3d%22;%3E+0x401009%3A+%22Vulnerability+Research+%2F%2F+Exploit+Dev%22;%3E+0x40102b%3A+%22AppSec+%2F%2F+Pentest+%2F%2F+Threat+Modeling%22;%3E+0x401050%3A+%22EIP+Control+Achieved.%22;%3E+0x401080%3A+%22it+compiled%2C+ship+it.%22" alt="Terminal Header" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ctftime.org/user/200084" target="_blank"><img src="https://img.shields.io/badge/CTFTime-0D1117?style=for-the-badge&logo=hackaday&logoColor=00FF00" alt="CTFTime"></a>
-  <a href="https://ctf.hackthebox.com/user/profile/1079731" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00" alt="HackTheBox"></a>
-  <a href="https://t.me/KernelModeDriver" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF00" alt="Telegram"></a>
+  <a href="https://ctftime.org/user/200084" target="_blank"><img src="https://img.shields.io/badge/CTFTime-0D1117?style=for-the-badge&logo=hackaday&logoColor=007d00" alt="CTFTime"></a>
+  <a href="https://ctf.hackthebox.com/user/profile/1079731" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=007d00" alt="HackTheBox"></a>
+  <a href="https://t.me/KernelModeDriver" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=007d00" alt="Telegram"></a>
 </p>
 
 ### `[0x00400000]> iz~coordinated_disclosures` ~ reports that made it past triage (Thank you to the maintainers and vendors for their hard work and patience)
@@ -32,19 +32,19 @@
 <th align="left">TL;DR</th>
 </tr>
 <tr>
-<td><code><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></code></td>
+<td><code><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></code></td>
 <td>gohugoio/hugo</td>
-<td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/8.6-High-c2410c?style=flat-square"/></td>
-<td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></td>
+<td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/8.6-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
 <td>SSRF Protection Bypass</td>
 </tr>
 
 <tr>
 <td><code><a href="https://github.com/router-for-me/CLIProxyAPI/security/advisories/GHSA-j4xx-x47j-7h54">GHSA-j4xx-x47j-7h54</a></code></td>
 <td>router-for-me/CLIProxyAPI</td>
-<td><img src="https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/7.5-c2410c?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Unauthenticated Request Exhaustion</td>
 </tr>
@@ -52,62 +52,53 @@
 <tr>
 <td><code><a href="https://github.com/scrapinghub/dateparser/security/advisories/GHSA-g8fh-jxm9-6qfx">GHSA-g8fh-jxm9-6qfx</a></code></td>
 <td>scrapinghub/dateparser</td>
-<td><img src="https://img.shields.io/github/stars/scrapinghub/dateparser?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/7.5-High-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/scrapinghub/dateparser?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/7.5-c2410c?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Regex Complexity DoS</td>
 </tr>
 
 <tr>
+<td><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-123096">CVE-2026-123096</a></code></td>
+<td>anacrolix/torrent</td>
+<td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/7.1-c2410c?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+<td>Memory exhaustion / client DoS via unbounded HTTP tracker responses</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/charmbracelet/bubbletea/security/advisories/GHSA-qc58-pfg9-7pph">GHSA-qc58-pfg9-7pph</a></code></td>
 <td>charmbracelet/bubbletea</td>
-<td><img src="https://img.shields.io/github/stars/charmbracelet/bubbletea?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/charmbracelet/bubbletea?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Terminal Resize DoS</td>
 </tr>
 
 <tr>
-<td><code><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></code></td>
-<td>schollz/croc</td>
-<td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/4.2-Moderate-b8860b?style=flat-square"/></td>
-<td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119298">CVE-2026-119298</a></td>
-<td>Silent File Overwrite</td>
-</tr>
-
-<tr>
-<td><code><a href="https://github.com/wekan/wekan/security/advisories/GHSA-9846-cj96-6hv5">GHSA-9846-cj96-6hv5</a></code></td>
-<td>wekan/wekan</td>
-<td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
-<td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119300">CVE-2026-119300</a></td>
-<td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
-</tr>
-
-<tr>
 <td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-xxjp-cjxr-2x6m">GHSA-xxjp-cjxr-2x6m</a></code></td>
 <td>php/frankenphp</td>
-<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>CGI Path-Split Boundary Bypass</td>
 </tr>
 
 <tr>
-<td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-ccgp-ch9h-533f">GHSA-ccgp-ch9h-533f</a></code></td>
-<td>php/frankenphp</td>
-<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Stack Overflow DoS</td>
+<td><code><a href="https://github.com/wekan/wekan/security/advisories/GHSA-9846-cj96-6hv5">GHSA-9846-cj96-6hv5</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119300">CVE-2026-119300</a></code></td>
+<td>wekan/wekan</td>
+<td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+<td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
 </tr>
 
 <tr>
 <td><code><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></code></td>
 <td>anacrolix/torrent</td>
-<td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
 <td>Unbounded Recursion DoS</td>
 </tr>
@@ -115,53 +106,71 @@
 <tr>
 <td><code><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></code></td>
 <td>tinyproxy/tinyproxy</td>
-<td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/6.5-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
 <td>Hostname ACL Bypass</td>
 </tr>
 
 <tr>
-<td><code><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a></code></td>
+<td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-ccgp-ch9h-533f">GHSA-ccgp-ch9h-533f</a></code></td>
+<td>php/frankenphp</td>
+<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/5.9-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Stack Overflow DoS</td>
+</tr>
+
+<tr>
+<td><code><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119299">CVE-2026-119299</a></code></td>
 <td>gopacket/gopacket</td>
-<td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/5.9-Moderate-b8860b?style=flat-square"/></td>
-<td><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119299">CVE-2026-119299</a></td>
+<td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/5.9-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
 <td>SCTP Decoder Crash</td>
 </tr>
 
 <tr>
 <td><code><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></code></td>
 <td>portainer/portainer</td>
-<td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/5.3-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/5.3-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Authenticated SSRF Vulnerabilities</td>
 </tr>
 
 <tr>
-<td><code><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></code></td>
-<td>shaarli/Shaarli</td>
-<td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/3.7-Low-898989?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>CSRF-to-SSRF</td>
-</tr>
-
-<tr>
 <td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-73xj-vvj7-fp4p">GHSA-73xj-vvj7-fp4p</a></code></td>
 <td>MHSanaei/3x-ui</td>
-<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/5.3-Moderate-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/5.3-b8860b?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Login rate limit bypass</td>
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119298">CVE-2026-119298</a></code></td>
+<td>schollz/croc</td>
+<td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/4.2-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+<td>Silent File Overwrite</td>
+</tr>
+
+<tr>
+<td><code><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></code></td>
+<td>shaarli/Shaarli</td>
+<td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/3.7-898989?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>CSRF-to-SSRF</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></code></td>
 <td>MHSanaei/3x-ui</td>
-<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&color=555555"/></td>
-<td><img src="https://img.shields.io/badge/2.7-Low-898989?style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/2.7-898989?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
 <td>Admin-authenticated SSRF</td>
 </tr>
@@ -345,50 +354,50 @@ invpcid rdrand hypervisor lahf_lm abm 3dnowprefetch work_life_balance(FLAG_NOT_S
 
 **`[+] MODULE: 0x01_LANGUAGE_RUNTIME.dll`**
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ff00" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=00ff00" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00ff00" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ff00" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00ff00" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00ff00" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ff00" alt="Go" />
-  <img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=00ff00" alt="Lua" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00ff00" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ff00" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" alt="Bash" />
-  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=00ff00" alt="ASM" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=00ff00" alt="StackOverflow (real MVP)" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=007d00" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=007d00" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=007d00" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=007d00" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=007d00" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=007d00" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=007d00" alt="Go" />
+  <img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=007d00" alt="Lua" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=007d00" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=007d00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=007d00" alt="Bash" />
+  <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=007d00" alt="ASM" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=007d00" alt="StackOverflow (real MVP)" />
 </p>
 
 **`[+] MODULE: 0x02_KERNEL_ENV.so`**
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=00ff00" alt="Arch" />
-  <img src="https://img.shields.io/badge/btw_I_use_Arch-0D1117?style=for-the-badge&logo=archlinux&logoColor=00ff00" alt="btw" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00ff00" alt="Docker" />
-  <img src="https://img.shields.io/badge/Proxmox-0D1117?style=for-the-badge&logo=proxmox&logoColor=00ff00" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00ff00" alt="K8s" />
-  <img src="https://img.shields.io/badge/VMware_ESXi-0D1117?style=for-the-badge&logo=vmware&logoColor=00ff00" alt="ESXi" />
-  <img src="https://img.shields.io/badge/QEMU-0D1117?style=for-the-badge&logo=qemu&logoColor=00ff00" alt="QEMU" />
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00ff00" alt="Windows (unfortunately, for testing)" />
+  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=007d00" alt="Arch" />
+  <img src="https://img.shields.io/badge/btw_I_use_Arch-0D1117?style=for-the-badge&logo=archlinux&logoColor=007d00" alt="btw" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=007d00" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-0D1117?style=for-the-badge&logo=proxmox&logoColor=007d00" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=007d00" alt="K8s" />
+  <img src="https://img.shields.io/badge/VMware_ESXi-0D1117?style=for-the-badge&logo=vmware&logoColor=007d00" alt="ESXi" />
+  <img src="https://img.shields.io/badge/QEMU-0D1117?style=for-the-badge&logo=qemu&logoColor=007d00" alt="QEMU" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=007d00" alt="Windows (unfortunately, for testing)" />
 </p>
 
 **`[+] MODULE: 0x03_DEBUG_WEAPONS.exe`**
 <p>
-  <img src="https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/IDA_Pro-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Binary_Ninja-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="Binary Ninja" />
-  <img src="https://img.shields.io/badge/radare2-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="radare2 (I still forget the flags)" />
-  <img src="https://img.shields.io/badge/x64dbg-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="x64dbg" />
-  <img src="https://img.shields.io/badge/WinDbg-0D1117?style=for-the-badge&logo=windows&logoColor=00ff00" alt="WinDbg" />
-  <img src="https://img.shields.io/badge/Frida-0D1117?style=for-the-badge&logo=frida&logoColor=00ff00" alt="Frida" />
-  <img src="https://img.shields.io/badge/Volatility-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="Volatility" />
-  <img src="https://img.shields.io/badge/YARA-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="YARA" />
-  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00ff00" alt="Burp" />
-  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00ff00" alt="MSF" />
-  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00ff00" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00ff00" alt="Nmap" />
-  <img src="https://img.shields.io/badge/CodeQL-0D1117?style=for-the-badge&logo=github&logoColor=00ff00" alt="CodeQL" />
-  <img src="https://img.shields.io/badge/Semgrep-0D1117?style=for-the-badge&logo=semgrep&logoColor=00ff00" alt="Semgrep" />
+  <img src="https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/IDA_Pro-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Binary_Ninja-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="Binary Ninja" />
+  <img src="https://img.shields.io/badge/radare2-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="radare2 (I still forget the flags)" />
+  <img src="https://img.shields.io/badge/x64dbg-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="x64dbg" />
+  <img src="https://img.shields.io/badge/WinDbg-0D1117?style=for-the-badge&logo=windows&logoColor=007d00" alt="WinDbg" />
+  <img src="https://img.shields.io/badge/Frida-0D1117?style=for-the-badge&logo=frida&logoColor=007d00" alt="Frida" />
+  <img src="https://img.shields.io/badge/Volatility-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="Volatility" />
+  <img src="https://img.shields.io/badge/YARA-0D1117?style=for-the-badge&logo=kalilinux&logoColor=007d00" alt="YARA" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=007d00" alt="Burp" />
+  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=007d00" alt="MSF" />
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=007d00" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=007d00" alt="Nmap" />
+  <img src="https://img.shields.io/badge/CodeQL-0D1117?style=for-the-badge&logo=github&logoColor=007d00" alt="CodeQL" />
+  <img src="https://img.shields.io/badge/Semgrep-0D1117?style=for-the-badge&logo=semgrep&logoColor=007d00" alt="Semgrep" />
 </p>
 
 ---
@@ -417,15 +426,15 @@ tradecraft:
 [*] NX:       NX enabled
 [*] PIE:      PIE enabled
 [*] Coffee:   NOT enabled (CRITICAL)
-[*] Threat model coverage: NIST CSF+SP / ISO / PCI DSS / FSTEC / OWASP / MITRE ATT&CK
+[*] I heard something of: NIST / ISO / PCI DSS / OWASP / MITRE
 ```
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reload3d&theme=hacker&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakNum=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reload3d&theme=hacker&hide_border=true&background=0D1117&ring=007d00&fire=007d00&currStreakNum=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reload3d&label=MEMORY_LEAKS&color=00ff00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Reload3d&label=MEMORY_LEAKS&color=007d00&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
