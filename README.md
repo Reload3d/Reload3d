@@ -131,6 +131,15 @@
 </tr>
 
 <tr>
+<td><code><a href="https://github.com/rclone/rclone/security/advisories/GHSA-f8p4-8g4j-q3m2">GHSA-f8p4-8g4j-q3m2</a></code></td>
+<td>rclone/rclone</td>
+<td><img src="https://img.shields.io/github/stars/rclone/rclone?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+<td><img src="https://img.shields.io/badge/5.5-b8860b?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+<td>Unauthenticated RC Memory Exhaustion</td>
+</tr>
+
+<tr>
 <td><code><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></code></td>
 <td>portainer/portainer</td>
 <td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
