@@ -104,7 +104,7 @@
 </tr>
 
 <tr>
-<td><code><a href="https://www.cve.org/CVERecord?id=CVE-2026-125371">CVE-2026-125371</a></code></br><code><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></code></td>
+<td><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-125371">CVE-2026-125371</a></code></br><code><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></code></td>
 <td>tinyproxy/tinyproxy</td>
 <td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
 <td><img src="https://img.shields.io/badge/6.3-b8860b?style=flat-square"/></td>
