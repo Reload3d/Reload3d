@@ -136,7 +136,7 @@
     <td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
     <td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
     <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-    <td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
+    <td><code><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a></code> - ReDoS via Unescaped User Input in RegExp</td>
   </tr>
 
   <tr>
