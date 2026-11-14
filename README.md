@@ -23,166 +23,242 @@
 ### `[0x00400000]> iz~coordinated_disclosures` ~ reports that made it past triage (Thank you to the maintainers and vendors for their hard work and patience)
 
 <table>
-<tr>
-<th align="left">Advisory</th>
-<th align="left">Repo</th>
-<th align="left">Stars</th>
-<th align="left">CVSS</th>
-<th align="left">Status</th>
-<th align="left">TL;DR</th>
-</tr>
-<tr>
-<td><code><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></code></td>
-<td>gohugoio/hugo</td>
-<td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/8.6-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-<td>SSRF Protection Bypass</td>
-</tr>
+  <tr>
+    <th width="24%">Advisory</th>
+    <th width="24%">Repo</th>
+    <th width="8%" align="center">Stars</th>
+    <th width="2%" align="center">CVSS</th>
+    <th width="12%">Status</th>
+    <th width="28%">TL;DR</th>
+  </tr>
+  <tr>
+    <td>
+      <sub>
+        <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></b>
+        <br><a href="https://github.com/gohugoio/hugo/security/advisories/GHSA-pmrv-x7gp-2rjw">GHSA-pmrv-x7gp-2rjw</a></br>
+      </sub>
+    </td>
+    <td>gohugoio/hugo</td>
+    <td><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/8.6-c2410c?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td>SSRF Protection Bypass</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/router-for-me/CLIProxyAPI/security/advisories/GHSA-j4xx-x47j-7h54">GHSA-j4xx-x47j-7h54</a></code></td>
-<td>router-for-me/CLIProxyAPI</td>
-<td><img src="https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/7.5-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Unauthenticated Request Exhaustion</td>
-</tr>
+  <tr>
+    <td>
+      <sub>
+        <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-128020">CVE-2026-128020</a></b>
+        <br><a href="https://github.com/php/frankenphp/security/advisories/GHSA-ccgp-ch9h-533f">GHSA-ccgp-ch9h-533f</a></br>
+      </sub>
+    </td>
+    <td>php/frankenphp</td>
+    <td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/8.2-c2410c?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td>Stack Overflow DoS</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/scrapinghub/dateparser/security/advisories/GHSA-g8fh-jxm9-6qfx">GHSA-g8fh-jxm9-6qfx</a></code></td>
-<td>scrapinghub/dateparser</td>
-<td><img src="https://img.shields.io/github/stars/scrapinghub/dateparser?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/7.5-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Regex Complexity DoS</td>
-</tr>
+  <tr>
+    <td>
+      <sub>
+        <a href="https://github.com/router-for-me/CLIProxyAPI/security/advisories/GHSA-j4xx-x47j-7h54">GHSA-j4xx-x47j-7h54</a>
+      </sub>
+    </td>
+    <td>router-for-me/CLIProxyAPI</td>
+    <td><img src="https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/7.5-c2410c?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Unauthenticated Request Exhaustion</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-123096">CVE-2026-123096</a></code></td>
-<td>anacrolix/torrent</td>
-<td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/7.1-c2410c?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-<td>Memory exhaustion / client DoS via unbounded HTTP tracker responses</td>
-</tr>
+  <tr>
+    <td>
+      <sub>
+        <a href="https://github.com/scrapinghub/dateparser/security/advisories/GHSA-g8fh-jxm9-6qfx">GHSA-g8fh-jxm9-6qfx</a>
+      </sub>
+    </td>
+    <td>scrapinghub/dateparser</td>
+    <td><img src="https://img.shields.io/github/stars/scrapinghub/dateparser?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/7.5-c2410c?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Regex Complexity DoS</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/charmbracelet/bubbletea/security/advisories/GHSA-qc58-pfg9-7pph">GHSA-qc58-pfg9-7pph</a></code></td>
-<td>charmbracelet/bubbletea</td>
-<td><img src="https://img.shields.io/github/stars/charmbracelet/bubbletea?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Terminal Resize DoS</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-123096">CVE-2026-123096</a></b>
+        </sub>
+    </td>
+    <td>anacrolix/torrent</td>
+    <td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/7.1-c2410c?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td>Memory exhaustion / client DoS via unbounded HTTP tracker responses</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-xxjp-cjxr-2x6m">GHSA-xxjp-cjxr-2x6m</a></code></td>
-<td>php/frankenphp</td>
-<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>CGI Path-Split Boundary Bypass</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-128025">CVE-2026-128025</a></b>
+          <br><a href="https://github.com/php/frankenphp/security/advisories/GHSA-xxjp-cjxr-2x6m">GHSA-xxjp-cjxr-2x6m</a></br>
+        </sub>
+    </td>
+    <td>php/frankenphp</td>
+    <td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/6.9-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td>CGI Path-Split Boundary Bypass</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/wekan/wekan/security/advisories/GHSA-9846-cj96-6hv5">GHSA-9846-cj96-6hv5</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119300">CVE-2026-119300</a></code></td>
-<td>wekan/wekan</td>
-<td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-<td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <a href="https://github.com/charmbracelet/bubbletea/security/advisories/GHSA-qc58-pfg9-7pph">GHSA-qc58-pfg9-7pph</a>
+        </sub>
+    </td>
+    <td>charmbracelet/bubbletea</td>
+    <td><img src="https://img.shields.io/github/stars/charmbracelet/bubbletea?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Terminal Resize DoS</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></code></br><code><a href="https://pkg.go.dev/vuln/GO-2026-6894">GO-2026-6894</a></code></td>
-<td>anacrolix/torrent</td>
-<td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
-<td>Unbounded Recursion DoS</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119300">CVE-2026-119300</a></b>
+          <br><a href="https://github.com/wekan/wekan/security/advisories/GHSA-9846-cj96-6hv5">GHSA-9846-cj96-6hv5</a></br>
+        </sub>
+    </td>
+    <td>wekan/wekan</td>
+    <td><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td><a href="https://wekan.fi/hall-of-fame/">UserSearchBleed</a> - ReDoS via Unescaped User Input in RegExp</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-125371">CVE-2026-125371</a></code></br><code><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></code></td>
-<td>tinyproxy/tinyproxy</td>
-<td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/6.3-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-<td>Hostname ACL Bypass</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://pkg.go.dev/vuln/GO-2026-6894">GO-2026-6894</a></b>
+          <br><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></br>
+        </sub>
+    </td>
+    <td>anacrolix/torrent</td>
+    <td><img src="https://img.shields.io/github/stars/anacrolix/torrent?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/6.5-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Fix_Merged-0e7490?style=flat-square"/></td>
+    <td>Unbounded Recursion DoS</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/php/frankenphp/security/advisories/GHSA-ccgp-ch9h-533f">GHSA-ccgp-ch9h-533f</a></code></td>
-<td>php/frankenphp</td>
-<td><img src="https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/5.9-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Stack Overflow DoS</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-125371">CVE-2026-125371</a></b>
+          <br><a href="https://github.com/tinyproxy/tinyproxy/issues/627">Issue #627</a></br>
+        </sub>
+    </td>
+  <td>tinyproxy/tinyproxy</td>
+  <td><img src="https://img.shields.io/github/stars/tinyproxy/tinyproxy?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+  <td><img src="https://img.shields.io/badge/6.3-b8860b?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+  <td>Hostname ACL Bypass</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119299">CVE-2026-119299</a></code></td>
-<td>gopacket/gopacket</td>
-<td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/5.9-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-<td>SCTP Decoder Crash</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119299">CVE-2026-119299</a></b>
+          <br><a href="https://github.com/gopacket/gopacket/security/advisories/GHSA-358w-w75h-x6rx">GHSA-358w-w75h-x6rx</a>
+        </sub>
+    </td>
+    <td>gopacket/gopacket</td>
+    <td><img src="https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/5.9-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td>SCTP Decoder Crash</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/rclone/rclone/security/advisories/GHSA-f8p4-8g4j-q3m2">GHSA-f8p4-8g4j-q3m2</a></code></td>
-<td>rclone/rclone</td>
-<td><img src="https://img.shields.io/github/stars/rclone/rclone?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/5.5-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Unauthenticated RC Memory Exhaustion</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <a href="https://github.com/rclone/rclone/security/advisories/GHSA-f8p4-8g4j-q3m2">GHSA-f8p4-8g4j-q3m2</a>
+        </sub>
+    </td>
+    <td>rclone/rclone</td>
+    <td><img src="https://img.shields.io/github/stars/rclone/rclone?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/5.5-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Unauthenticated RC Memory Exhaustion</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></code></td>
-<td>portainer/portainer</td>
-<td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/5.3-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Authenticated SSRF Vulnerabilities</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a>
+        </sub>
+    </td>
+    <td>portainer/portainer</td>
+    <td><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/5.3-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Authenticated SSRF Vulnerabilities</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-73xj-vvj7-fp4p">GHSA-73xj-vvj7-fp4p</a></code></td>
-<td>MHSanaei/3x-ui</td>
-<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/5.3-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Login rate limit bypass</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-73xj-vvj7-fp4p">GHSA-73xj-vvj7-fp4p</a>
+        </sub>
+    </td>
+    <td>MHSanaei/3x-ui</td>
+    <td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/5.3-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Login rate limit bypass</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></code></br><code><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119298">CVE-2026-119298</a></code></td>
-<td>schollz/croc</td>
-<td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/4.2-b8860b?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
-<td>Silent File Overwrite</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119298">CVE-2026-119298</a></b>
+          <br><a href="https://github.com/schollz/croc/security/advisories/GHSA-x89h-7h96-v88f">GHSA-x89h-7h96-v88f</a></br>
+        </sub>
+    </td>
+    <td>schollz/croc</td>
+    <td><img src="https://img.shields.io/github/stars/schollz/croc?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/4.2-b8860b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Done-007d00?style=flat-square"/></td>
+    <td>Silent File Overwrite</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></code></td>
-<td>shaarli/Shaarli</td>
-<td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/3.7-898989?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>CSRF-to-SSRF</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a>
+        </sub>
+    </td>
+    <td>shaarli/Shaarli</td>
+    <td><img src="https://img.shields.io/github/stars/shaarli/Shaarli?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/3.7-898989?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>CSRF-to-SSRF</td>
+  </tr>
 
-<tr>
-<td><code><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></code></td>
-<td>MHSanaei/3x-ui</td>
-<td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
-<td><img src="https://img.shields.io/badge/2.7-898989?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
-<td>Admin-authenticated SSRF</td>
-</tr>
+  <tr>
+    <td>
+        <sub>
+          <a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a>
+        </sub>
+    </td>
+    <td>MHSanaei/3x-ui</td>
+    <td><img src="https://img.shields.io/github/stars/MHSanaei/3x-ui?style=flat-square&label&labelColor=555555&color=555555&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiAyIDMuMDkgNi4yNkwyMiA5LjI3bC01IDQuODcgMS4xOCA2Ljg4TDEyIDE3Ljc3bC02LjE4IDMuMjVMNyAxNC4xNCAyIDkuMjdsNi45MS0xLjAxeiIvPjwvc3ZnPg=="/></td>
+    <td><img src="https://img.shields.io/badge/2.7-898989?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/-Awaiting_CVE-2563eb?style=flat-square"/></td>
+    <td>Admin-authenticated SSRF</td>
+  </tr>
 </table>
 
 <p align="center"><sub>~ Coordinated disclosure: because "uncoordinated disclosure" is called a felony ~</sub></p>
