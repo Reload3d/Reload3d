@@ -33,7 +33,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/gohugoio/hugo"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/gohugoio/hugo.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/gohugoio/hugo"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/gohugoio/hugo.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
       <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-100693">CVE-2026-100693</a></b>
@@ -50,7 +50,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/php/frankenphp"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/php/frankenphp.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/php/frankenphp"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/php/frankenphp.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-128020">CVE-2026-128020</a></b>
@@ -67,7 +67,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/router-for-me/CLIProxyAPI"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/router-for-me/CLIProxyAPI.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/router-for-me/CLIProxyAPI"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/router-for-me/CLIProxyAPI.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/router-for-me/CLIProxyAPI/security/advisories/GHSA-j4xx-x47j-7h54">GHSA-j4xx-x47j-7h54</a></b>
@@ -83,7 +83,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/scrapinghub/dateparser"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/scrapinghub/dateparser.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/scrapinghub/dateparser"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/scrapinghub/dateparser.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/scrapinghub/dateparser/security/advisories/GHSA-g8fh-jxm9-6qfx">GHSA-g8fh-jxm9-6qfx</a></b>
@@ -99,7 +99,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-123096">CVE-2026-123096</a></b>
@@ -115,7 +115,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/php/frankenphp"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/php/frankenphp.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/php/frankenphp"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/php/frankenphp.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-128025">CVE-2026-128025</a></b>
@@ -132,7 +132,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/charmbracelet/bubbletea"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/charmbracelet/bubbletea.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/charmbracelet/bubbletea"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/charmbracelet/bubbletea.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/charmbracelet/bubbletea/security/advisories/GHSA-qc58-pfg9-7pph">GHSA-qc58-pfg9-7pph</a></b>
@@ -148,7 +148,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/wekan/wekan"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/wekan/wekan.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/wekan/wekan"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/wekan/wekan.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119300">CVE-2026-119300</a></b>
@@ -165,7 +165,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://pkg.go.dev/vuln/GO-2026-6894">GO-2026-6894</a></b>
@@ -182,7 +182,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/tinyproxy/tinyproxy"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/tinyproxy/tinyproxy.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/tinyproxy/tinyproxy"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/tinyproxy/tinyproxy.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-125371">CVE-2026-125371</a></b>
@@ -199,7 +199,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/gopacket/gopacket"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/gopacket/gopacket.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/gopacket/gopacket"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/gopacket/gopacket.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119299">CVE-2026-119299</a></b>
@@ -216,7 +216,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/rclone/rclone"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/rclone/rclone.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/rclone/rclone"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/rclone/rclone.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/rclone/rclone/security/advisories/GHSA-f8p4-8g4j-q3m2">GHSA-f8p4-8g4j-q3m2</a></b>
@@ -232,7 +232,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/portainer/portainer"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/portainer/portainer.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/portainer/portainer"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/portainer/portainer.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></b>
@@ -248,7 +248,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/MHSanaei/3x-ui"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/MHSanaei/3x-ui.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/MHSanaei/3x-ui"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/MHSanaei/3x-ui.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-73xj-vvj7-fp4p">GHSA-73xj-vvj7-fp4p</a></b>
@@ -264,7 +264,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/schollz/croc"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/schollz/croc.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/schollz/croc"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/schollz/croc.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-119298">CVE-2026-119298</a></b>
@@ -281,7 +281,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/shaarli/Shaarli"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/shaarli/Shaarli.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/shaarli/Shaarli"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/shaarli/Shaarli.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/shaarli/Shaarli/security/advisories/GHSA-9r6m-xrj8-6755">GHSA-9r6m-xrj8-6755</a></br>
@@ -297,7 +297,7 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
-    <a href="https://github.com/MHSanaei/3x-ui"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/MHSanaei/3x-ui.svg?v=4" alt="GitHub stars" height="48"></a>
+    <a href="https://github.com/MHSanaei/3x-ui"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/MHSanaei/3x-ui.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
     <b><a href="https://github.com/MHSanaei/3x-ui/security/advisories/GHSA-32x3-9376-fh92">GHSA-32x3-9376-fh92</a></br>
