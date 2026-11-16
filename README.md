@@ -196,7 +196,23 @@
   </td>
   <td>Hostname ACL Bypass</td>
 </tr>
-<!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
+<!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF--> 
+<tr>
+  <td valign="middle">
+    <a href="https://github.com/unrolled/secure"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/unrolled/secure.svg?v=6" alt="GitHub stars" height="48"></a>
+  </td>
+  <td>
+    <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-129885">CVE-2026-129885</a></b>
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/6.3.svg" alt="CVSS 6.3">
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/done.svg" alt="Done">
+  </td>
+  <td>HTTPS redirect bypass</td>
+</tr>
+<!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF--> 
 <tr>
   <td valign="middle">
     <a href="https://github.com/gopacket/gopacket"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/gopacket/gopacket.svg?v=6" alt="GitHub stars" height="48"></a>
