@@ -99,6 +99,22 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
+    <a href="https://github.com/meilisearch/meilisearch"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/meilisearch/meilisearch.svg?v=6" alt="GitHub stars" height="48"></a>
+  </td>
+  <td>
+    <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-132750">CVE-2026-132750</a></b>
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/7.1.svg" alt="CVSS 7.1">
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/done.svg" alt="Done">
+  </td>
+  <td>GeoPolygon Memory Exhaustion</td>
+</tr>
+<!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
+<tr>
+  <td valign="middle">
     <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
