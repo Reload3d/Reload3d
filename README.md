@@ -307,7 +307,7 @@
     <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/5.3.svg" alt="CVSS 5.3">
   </td>
   <td align="center" valign="middle">
-    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/awaiting-cve.svg" alt="Awaiting CVE">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/done.svg" alt="Done">
   </td>
   <td>Authenticated SSRF Vulnerabilities</td>
 </tr>
