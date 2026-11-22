@@ -83,6 +83,22 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
+    <a href="https://github.com/expr-lang/expr"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/expr-lang/expr.svg?v=6" alt="GitHub stars" height="48"></a>
+  </td>
+  <td>
+    <b><a href="https://github.com/expr-lang/expr/security/advisories/GHSA-m95f-6x3r-j79p">GHSA-m95f-6x3r-j79p</a></b>
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/7.5.svg" alt="CVSS 7.5">
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/awaiting-cve.svg" alt="Awaiting CVE">
+  </td>
+  <td>Parser Stack Overflow</td>
+</tr> 
+<!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
+<tr>
+  <td valign="middle">
     <a href="https://github.com/scrapinghub/dateparser"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/scrapinghub/dateparser.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
