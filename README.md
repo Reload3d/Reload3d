@@ -147,6 +147,24 @@
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
   <td valign="middle">
+    <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=6" alt="GitHub stars" height="48"></a>
+  </td>
+  <td>
+    <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-134754">CVE-2026-134754</a></b><br>
+    <sub><small><a href="https://pkg.go.dev/vuln/GO-2026-6894">GO-2026-6894</a></small></sub><br>
+    <sub><small><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></small></sub><br>
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/7.1.svg" alt="CVSS 7.1">
+  </td>
+  <td align="center" valign="middle">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/done.svg" alt="Done">
+  </td>
+  <td>Unbounded Recursion DoS</td>
+</tr>
+<!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
+<tr>
+  <td valign="middle">
     <a href="https://github.com/php/frankenphp"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/php/frankenphp.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
@@ -200,16 +218,15 @@
     <a href="https://github.com/anacrolix/torrent"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/anacrolix/torrent.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
-    <b><a href="https://pkg.go.dev/vuln/GO-2026-6894">GO-2026-6894</a></b>
-    <sub><br><a href="https://github.com/anacrolix/torrent/security/advisories/GHSA-2wrx-84qj-4pcg">GHSA-2wrx-84qj-4pcg</a></br></sub>
+    <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-134757">CVE-2026-134757</a></b>
   </td>
   <td align="center" valign="middle">
-    <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/6.5.svg" alt="CVSS 6.5">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/6.3.svg" alt="CVSS 6.3">
   </td>
   <td align="center" valign="middle">
-    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/in-progress.svg" alt="In progress">
+    <img src="https://readme-stars-live.picturesque-hare.workers.dev/status/done.svg" alt="Done">
   </td>
-  <td>Unbounded Recursion DoS</td>
+  <td>HTTPS Tracker MITM</td>
 </tr>
 <!--WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-WTF-->
 <tr>
@@ -283,7 +300,8 @@
     <a href="https://github.com/portainer/portainer"><img src="https://readme-stars-live.picturesque-hare.workers.dev/repo/portainer/portainer.svg?v=6" alt="GitHub stars" height="48"></a>
   </td>
   <td>
-    <b><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></b>
+    <b><a href="https://nvd.nist.gov/vuln/detail/cve-2026-134756">CVE-2026-134756</a></b>
+    <sub><br><a href="https://github.com/portainer/portainer/security/advisories/GHSA-wqqf-pwjh-2hm6">GHSA-wqqf-pwjh-2hm6</a></sub>
   </td>
   <td align="center" valign="middle">
     <img src="https://readme-stars-live.picturesque-hare.workers.dev/cvss/5.3.svg" alt="CVSS 5.3">
